@@ -10,7 +10,6 @@
     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=jemiezler&column=-1&margin-w=15&margin-h=15" alt="Trophy" />
     </td>
-    </td>
   </tr>
 </table>
 
